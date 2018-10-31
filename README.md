@@ -6,8 +6,9 @@ Object classification using the caltech101 dataset.
 The code in this repository is inspired/copied by the repository https://github.com/fchollet/deep-learning-with-python-notebooks that has the code from book "Deep Learning with Python".
 
 More specifically, I am running code from the notebooks:
-https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/5.2-using-convnets-with-small-datasets.ipynb
-https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/5.3-using-a-pretrained-convnet.ipynb
+ - https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/5.2-using-convnets-with-small-datasets.ipynb
+ - https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/5.3-using-a-pretrained-convnet.ipynb
+
 adapted to the Caltech101 dataset. Please refer to the original Jupyter Notebooks above for further information.
 
 ### Example images in the caltech101 dataset
