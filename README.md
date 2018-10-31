@@ -1,12 +1,22 @@
 # Caltech_101_object_classification
 Object classification using the caltech101 dataset.
 
+## Introduction
+
 The code in this repository is inspired/copied by the repository https://github.com/fchollet/deep-learning-with-python-notebooks that has the code from book "Deep Learning with Python".
 
 More specifically, I am running code from the notebooks:
 https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/5.2-using-convnets-with-small-datasets.ipynb
 https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/5.3-using-a-pretrained-convnet.ipynb
 adapted to the Caltech101 dataset. Please refer to the original Jupyter Notebooks above for further information.
+
+### Example images in the caltech101 dataset
+
+![Example images of the dataset](https://github.com/tilemmpon/Caltech_101_object_classification/blob/master/figures/example_images.png)
+
+
+### Example accuracy per epoch for fine-tuning a pre-trained network in the caltech01 dataset.
+![Example accuracy](https://github.com/tilemmpon/Caltech_101_object_classification/blob/master/figures/example_accuracy_per_epoch_pretrained.png)
 
 ## Depedencies
   - python >= 3.6
