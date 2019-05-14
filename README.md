@@ -21,6 +21,10 @@ The code in this repository needs to run on a machine has has a Cuda capable GPU
 ## Explanation of files
 
   - **get_dataset.sh** : downloads and untars the dataset. Please run it once.
-  - **\*.h5** : saved trained Keras models.
+  - **\*.h5** : saved trained Keras models. See next section for download.
   - **Caltech_101_split_dataset_and_first_NN.ipynb** : this notebooks splits the dataset into train and test. It also runs a first simple Neural Network for the classification.
   - **Caltech_101_pretained_convnet.ipynb** : training using pre-trained networks as features extractors and fine-tuning.
+
+## Pre-trained models
+
+If you would like to use the trained Keras models I produce you can download them from [here](https://mega.nz/#F!q24kjahL!xXGGSliq4u4pHINLbMcSYw).
